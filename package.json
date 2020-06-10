@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
-    "mathjs": "^7.0.1"
+    "mathjs": "^7.0.1",
+    "uniqid": "^5.2.0"
   }
 }
