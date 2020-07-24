@@ -1,4 +1,5 @@
-# Budgety
+# Forkify
+
 Project build with the design pattern Model, Views and Controllers (MVC) in vanilla JavaScript where I build an API of a recipe website following the guide in the Udemy course "The Complete JavaScript Course 2020: Build Real Projects!" created by Jonas Schmedtmann.
 
 ![screenshot](./app_screenshot.png)
