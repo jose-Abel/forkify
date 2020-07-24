@@ -19,7 +19,7 @@ Project build with the design pattern Model, Views and Controllers (MVC) in vani
 - 👤GitHub: [Jose Abel Ramirez](https://github.com/jose-Abel)
 
 ## Getting Started
-You can clone this code anytime and load the HTML on your browser. Since it was build with vanilla JavaScript it doesn't need any other package.
+You can clone this code anytime and load the HTML file on your browser. Since it was build with vanilla JavaScript and the bundle was already built, it doesn't need any other package, the index.html file is located in the dist folder.
 
 
 ## Live version
