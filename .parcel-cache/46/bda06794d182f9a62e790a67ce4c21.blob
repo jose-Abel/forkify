@@ -5955,7 +5955,7 @@ var _generateMarkup2 = function _generateMarkup2() {
     <div class="recipe__ingredients">
       <h2 class="heading--2">Recipe ingredients</h2>
       <ul class="recipe__ingredient-list">
-        ${_classPrivateFieldGet(this, _data).ingredients.map(_classPrivateMethodGet(this, _generateMarkupIngredient, _generateMarkupIngredient2)).join('')}
+        ${_classPrivateFieldGet(this, _data).ingredients.map().join('')}
 
       </ul>
     </div>

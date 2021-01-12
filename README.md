@@ -10,7 +10,11 @@ Project build with the design pattern Model, Views and Controllers (MVC) in vani
 - CSS
 - Sass
 - Javascript
-- Parcel
+
+### npm packages
+
+- Parcel bundler
+- Fractional
 
 ### Documentations
 

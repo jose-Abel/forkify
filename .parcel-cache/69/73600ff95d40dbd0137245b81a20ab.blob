@@ -5066,6 +5066,7 @@ const loadRecipe = async function (id) {
       cookingTime: recipe.cooking_time,
       ingredients: recipe.ingredients
     };
+    console.log(state.recipe);
   } catch (err) {
     alert(err);
   }
@@ -5832,7 +5833,7 @@ exports.default = void 0;
 
 var _icons = _interopRequireDefault(require("url:../../img/icons.svg"));
 
-var _fractional = require("fractional");
+var _fractional = _interopRequireDefault(require("fractional"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -5844,6 +5845,8 @@ function _classPrivateMethodGet(receiver, privateSet, fn) { if (!privateSet.has(
 
 function _classPrivateFieldSet(receiver, privateMap, value) { var descriptor = privateMap.get(receiver); if (!descriptor) { throw new TypeError("attempted to set private field on non-instance"); } if (descriptor.set) { descriptor.set.call(receiver, value); } else { if (!descriptor.writable) { throw new TypeError("attempted to set read only private field"); } descriptor.value = value; } return value; }
 
+console.log(_fractional.default);
+
 var _parentElement = new WeakMap();
 
 var _data = new WeakMap();
@@ -5852,12 +5855,8 @@ var _clear = new WeakSet();
 
 var _generateMarkup = new WeakSet();
 
-var _generateMarkupIngredient = new WeakSet();
-
 class RecipeView {
   constructor() {
-    _generateMarkupIngredient.add(this);
-
     _generateMarkup.add(this);
 
     _clear.add(this);
@@ -5955,7 +5954,20 @@ var _generateMarkup2 = function _generateMarkup2() {
     <div class="recipe__ingredients">
       <h2 class="heading--2">Recipe ingredients</h2>
       <ul class="recipe__ingredient-list">
-        ${_classPrivateFieldGet(this, _data).ingredients.map(_classPrivateMethodGet(this, _generateMarkupIngredient, _generateMarkupIngredient2)).join('')}
+        ${_classPrivateFieldGet(this, _data).ingredients.map(ing => {
+    return `  
+            <li class="recipe__ingredient">
+              <svg class="recipe__icon">
+                <use href="${_icons.default}#icon-check"></use>
+              </svg>
+              <div class="recipe__quantity">${ing.quantity}</div>
+              <div class="recipe__description">
+                <span class="recipe__unit">${ing.unit}</span>
+                ${ing.description}
+              </div>
+            </li>
+          `;
+  }).join('')}
 
       </ul>
     </div>
@@ -5979,21 +5991,6 @@ var _generateMarkup2 = function _generateMarkup2() {
       </a>
     </div>
   `;
-};
-
-var _generateMarkupIngredient2 = function _generateMarkupIngredient2(ing) {
-  return `  
-      <li class="recipe__ingredient">
-        <svg class="recipe__icon">
-          <use href="${_icons.default}#icon-check"></use>
-        </svg>
-        <div class="recipe__quantity">${ing.quantity ? new _fractional.Fraction(ing.quantity).toString() : ""}</div>
-        <div class="recipe__description">
-          <span class="recipe__unit">${ing.unit}</span>
-          ${ing.description}
-        </div>
-      </li>
-    `;
 };
 
 var _default = new RecipeView();
