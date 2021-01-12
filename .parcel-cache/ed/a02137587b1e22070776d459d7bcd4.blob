@@ -5888,8 +5888,6 @@ var _data = new WeakMap();
 
 var _errorMessage = new WeakMap();
 
-var _message = new WeakMap();
-
 var _clear = new WeakSet();
 
 var _generateMarkup = new WeakSet();
@@ -5917,11 +5915,6 @@ class RecipeView {
     _errorMessage.set(this, {
       writable: true,
       value: 'We could not find that recipe. Please try another one!'
-    });
-
-    _message.set(this, {
-      writable: true,
-      value: ''
     });
 
     _defineProperty(this, "renderSpinner", function () {
@@ -5965,7 +5958,7 @@ class RecipeView {
     _classPrivateFieldGet(this, _parentElement).insertAdjacentHTML('afterbegin', markup);
   }
 
-  renderMessage(message = _classPrivateFieldGet(this, _message)) {
+  renderMessage(message = _classPrivateFieldGet(this, _errorMessage)) {
     const markup = `
     <div class="message">
       <div>

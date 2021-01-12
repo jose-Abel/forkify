@@ -5965,7 +5965,7 @@ class RecipeView {
     _classPrivateFieldGet(this, _parentElement).insertAdjacentHTML('afterbegin', markup);
   }
 
-  renderMessage(message = _classPrivateFieldGet(this, _message)) {
+  renderMessage(message = _classPrivateFieldGet(this, _errorMessage)) {
     const markup = `
     <div class="message">
       <div>
