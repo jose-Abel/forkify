@@ -2,7 +2,7 @@
 
 Project build with the design pattern Model, Views and Controllers (MVC) in vanilla JavaScript where I build an API of a recipe website following the guide in the Udemy course "The Complete JavaScript Course 2020: Build Real Projects!" created by Jonas Schmedtmann.
 
-![screenshot](./app_screenshot.png)
+<!-- ![screenshot](./app_screenshot.png) -->
 
 ## Built With
 
@@ -11,7 +11,6 @@ Project build with the design pattern Model, Views and Controllers (MVC) in vani
 - Sass
 - Javascript
 - Parcel
--
 
 ### Documentations
 
@@ -26,8 +25,6 @@ Project build with the design pattern Model, Views and Controllers (MVC) in vani
 You can clone this code anytime and load the HTML file on your browser. Since it was build with vanilla JavaScript and the bundle was already built, it doesn't need any other package, the index.html file is located in the dist folder.
 
 ## Live version
-
-https://reverent-panini-32629b.netlify.app/
 
 ### Setup
 
