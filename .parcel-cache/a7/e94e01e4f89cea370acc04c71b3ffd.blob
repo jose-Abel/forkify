@@ -491,7 +491,7 @@ const controlRecipes = async function () {
 
     _recipeView.default.render(model.state.recipe);
   } catch (err) {
-    _recipeView.default.renderError();
+    _recipeView.default.renderError(err);
   }
 };
 

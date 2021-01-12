@@ -491,7 +491,7 @@ const controlRecipes = async function () {
 
     _recipeView.default.render(model.state.recipe);
   } catch (err) {
-    _recipeView.default.renderError();
+    _recipeView.default.renderError(err);
   }
 };
 
@@ -5941,7 +5941,7 @@ class RecipeView {
     _classPrivateFieldGet(this, _parentElement).insertAdjacentHTML('afterbegin', markup);
   }
 
-  renderError(message = _classPrivateFieldGet(this, _errorMessage)) {
+  renderError(message) {
     const markup = `
     <div class="error">
       <div>
