@@ -5085,8 +5085,6 @@ exports.getJSON = void 0;
 
 var _regeneratorRuntime = require("regenerator-runtime");
 
-var _config = require("./config.js");
-
 const timeout = function (s) {
   return new Promise(function (_, reject) {
     setTimeout(function () {
@@ -5097,7 +5095,7 @@ const timeout = function (s) {
 
 const getJSON = async function (url) {
   try {
-    const res = await Promise.race([fetch(url), timeout(_config.TIMEOUT_SEC)]);
+    const res = await Promise.race([fetch(url), timeout(10)]);
     const data = await res.json();
     if (!res.ok) throw new Error(`${data.message} (${res.status})`);
     return data;
@@ -5107,7 +5105,7 @@ const getJSON = async function (url) {
 };
 
 exports.getJSON = getJSON;
-},{"regenerator-runtime":"e155e0d3930b156f86c48e8d05522b16","./config.js":"09212d541c5c40ff2bd93475a904f8de"}],"e155e0d3930b156f86c48e8d05522b16":[function(require,module,exports) {
+},{"regenerator-runtime":"e155e0d3930b156f86c48e8d05522b16"}],"e155e0d3930b156f86c48e8d05522b16":[function(require,module,exports) {
 /**
  * Copyright (c) 2014-present, Facebook, Inc.
  *
