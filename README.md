@@ -10,6 +10,8 @@ Project build with the design pattern Model, Views and Controllers (MVC) in vani
 - CSS
 - Sass
 - Javascript
+- MVC design pattern
+- Publisher-subscriber design pattern
 
 ### npm packages
 
