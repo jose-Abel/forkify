@@ -1,4 +1,4 @@
-17495
+17496
 126C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\package.json132549444556537430 0
 155C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\source-map\lib\quick-sort.js131369414910000000 0
 124C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\.gitignore132360990320009053 0
@@ -23,7 +23,7 @@
 178C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\core-js-compat\node_modules\semver\classes\range.js121436361000000000 0
 151C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\abortcontroller-polyfill132548652340004908 1
 161C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\node-addon-api\doc\async_worker.md121436361000000000 0
-118C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist132550410372171670 1
+118C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist132550466355622581 1
 183C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\helper-builder-binary-assignment-operator-visitor132548651848904164 1
 140C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\ret\README.md131391076780000000 0
 160C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\core-js\es\typed-array\reverse.js121436361000000000 0
@@ -182,7 +182,7 @@
 153C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\lodash\_setWrapToString.js121436361000000000 0
 157C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\svgo\plugins\removeMetadata.js121436361000000000 0
 183C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2016\MakeDate.js121436361000000000 0
-126C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\src\js\views132550380350043219 1
+126C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\src\js\views132550429976504251 1
 171C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\readable-stream\lib\internal\streams\from.js121436361000000000 0
 164C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\caniuse-lite\data\features\dataset.js121436361000000000 0
 152C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@parcel\watcher\prebuilds132548650892436031 1
@@ -243,7 +243,7 @@
 130C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\src\js\config.js132550405231452941 0
 204C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\regenerate-unicode-properties\Binary_Property\Changes_When_NFKC_Casefolded.js121436361000000000 0
 137C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\pbkdf2\lib132548649844498165 1
-134C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\src\js\controller.js132550410147368445 0
+134C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\src\js\controller.js132550464052351716 0
 146C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\hash.js\lib\hash.js121436361000000000 0
 159C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\resolve\test\module_dir\zmodules132548651020678893 1
 187C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\test\GetIntrinsic.js121436361000000000 0
@@ -288,6 +288,20 @@
 147C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@parcel\core\LICENSE121436361000000000 0
 152C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\is-callable\.istanbul.yml121436361000000000 0
 166C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@parcel\transformer-babel\src\babel7.js121436361000000000 0
+144C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\src\js\views\paginationView.js132550466353263477 0
+132C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\sshpk132548651740839677 1
+155C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\lodash\fp\defaultsDeepAll.js121436361000000000 0
+202C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2018\GetPrototypeFromConstructor.js121436361000000000 0
+183C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2016\ToUint32.js121436361000000000 0
+157C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\object-inspect\readme.markdown121436361000000000 0
+147C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\request\package.json132548651629326702 0
+135C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\filesize132548652273725806 1
+188C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2018\IteratorClose.js121436361000000000 0
+145C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\isstream\.jshintrc130413018380000000 0
+168C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-modules-extract-imports\README.md130866229650000000 0
+177C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\jsdom\lib\jsdom\living\generated\HTMLModElement.js121436361000000000 0
+164C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\ora\node_modules\chalk\source\util.js121436361000000000 0
+136C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\is-docker132548652240986836 1
 202C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\helpers\getOwnPropertyDescriptor.js121436361000000000 0
 156C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\ajv\lib\dotjs\_limitLength.js121436361000000000 0
 157C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@parcel\runtime-js\src\loaders132548650154449317 1
@@ -1463,19 +1477,6 @@
 132C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\fastq132548652078187900 1
 166C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\core-js\internals\add-to-unscopables.js121436361000000000 0
 172C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\http-proxy-middleware\node_modules\braces\lib132548649860457560 1
-155C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\lodash\fp\defaultsDeepAll.js121436361000000000 0
-202C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2018\GetPrototypeFromConstructor.js121436361000000000 0
-183C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2016\ToUint32.js121436361000000000 0
-157C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\object-inspect\readme.markdown121436361000000000 0
-147C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\request\package.json132548651629326702 0
-135C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\filesize132548652273725806 1
-132C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\sshpk132548651740839677 1
-188C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2018\IteratorClose.js121436361000000000 0
-145C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\isstream\.jshintrc130413018380000000 0
-168C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-modules-extract-imports\README.md130866229650000000 0
-177C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\jsdom\lib\jsdom\living\generated\HTMLModElement.js121436361000000000 0
-164C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\ora\node_modules\chalk\source\util.js121436361000000000 0
-136C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\is-docker132548652240986836 1
 153C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\resolve\test\shadowed_core132548651010409210 1
 146C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\tr46\lib\regexes.js131488781320000000 0
 137C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\fill-range132548651767342110 1
@@ -2080,7 +2081,7 @@
 159C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\json-stringify-safe\stringify.js130764733080000000 0
 156C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\core-js\es\instance\repeat.js121436361000000000 0
 169C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@parcel\fs-write-stream-atomic\.travis.yml121436361000000000 0
-139C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\favicon.57a3208c.png132550410369008385 0
+139C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\favicon.57a3208c.png132550466355372725 0
 146C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\minimalistic-assert132548652174910185 1
 148C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\lodash\_basePickBy.js121436361000000000 0
 142C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\lodash\merge.js121436361000000000 0
@@ -4057,7 +4058,7 @@
 146C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\resolve\lib\sync.js121436361000000000 0
 145C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\command-exists\lib132548650950815451 1
 150C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss\docs\guidelines132548650275398066 1
-140C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\main.00f8e781.css.map132550410369138312 0
+140C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\main.00f8e781.css.map132550466355532632 0
 141C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\lodash\drop.js121436361000000000 0
 189C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\util.promisify\node_modules\es-abstract\2017\HasOwnProperty.js121436361000000000 0
 174C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-merge-longhand\dist\lib\decl\padding.js121436361000000000 0
@@ -7702,8 +7703,8 @@
 176C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-selector-parser\dist\selectors\comment.js121436361000000000 0
 178C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-selector-parser\dist\selectors\container.js121436361000000000 0
 181C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-modules-scope\node_modules\postcss\lib\root.js121436361000000000 0
-184C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-modules-extract-imports\node_modules\postcss\docs132548650066365630 1
 175C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-selector-parser\dist\selectors\pseudo.js121436361000000000 0
+184C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-modules-extract-imports\node_modules\postcss\docs132548650066365630 1
 173C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-selector-parser\dist\selectors\root.js121436361000000000 0
 139C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\pako\LICENSE121436361000000000 0
 149C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\pn\scripts\generate.js131594838690000000 0
@@ -8142,7 +8143,7 @@
 195C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-minify-params\node_modules\postcss-value-parser\lib\parse.js121436361000000000 0
 194C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-minify-params\node_modules\postcss-value-parser\lib\unit.js121436361000000000 0
 150C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\is-symbol\.editorconfig121436361000000000 0
-141C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\controller.a9201e4a.js132550410372081724 0
+141C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\controller.a9201e4a.js132550466355452673 0
 137C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\nwsapi\src132548650439971329 1
 166C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\es-abstract\2016\IsGenericDescriptor.js121436361000000000 0
 194C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\postcss-minify-params\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
@@ -16773,7 +16774,7 @@
 162C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\plugin-transform-regenerator132548652088438989 1
 171C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\plugin-transform-shorthand-properties132548651546054589 1
 157C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\plugin-transform-spread132548651839395602 1
-137C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\icons.e198dab1.svg132550410369018383 0
+137C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\icons.e198dab1.svg132550466355372725 0
 164C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\plugin-transform-typeof-symbol132548651542964386 1
 161C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\plugin-transform-typescript132548651836597470 1
 166C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\@babel\plugin-transform-unicode-escapes132548651543014354 1
@@ -17490,7 +17491,7 @@
 140C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\.bin\uuid.cmd132548652366994211 0
 140C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\.bin\uuid.ps1132548652366994211 0
 141C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\node_modules\.bin\which.ps1132548652367315328 0
-145C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\controller.a9201e4a.js.map132550410372141686 0
-129C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\index.html132550410369018383 0
-136C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\logo.cd2b0410.png132550410369028371 0
-136C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\main.00f8e781.css132550410369018383 0
+145C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\controller.a9201e4a.js.map132550466355602593 0
+129C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\index.html132550466355372725 0
+136C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\logo.cd2b0410.png132550466355452673 0
+136C:\Users\Owner\Desktop\Toshiba\Udemy\The Complete JavaScript Course 2020 - From Zero to Expert\New Course\Forkify\dist\main.00f8e781.css132550466355382715 0
