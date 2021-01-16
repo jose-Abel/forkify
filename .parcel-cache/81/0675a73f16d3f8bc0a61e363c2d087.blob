@@ -6816,7 +6816,7 @@ class View {
    * @returns {undefined | string} A markup string is returned if render=false
    * @this (Object) View instance
    * @author Jose Abel Ramirez Frontany
-   * @todo Finish implementation
+   * @todo 
    */
   render(data, render = true) {
     if (!data || Array.isArray(data) && data.length === 0) return this.renderError();
