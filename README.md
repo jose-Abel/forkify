@@ -25,12 +25,15 @@ Project build with the design pattern Model, Views and Controllers (MVC) in vani
 ## Authors
 
 - 👤GitHub: [Jose Abel Ramirez](https://github.com/jose-Abel)
+- Linkedin: [Jose Abel Ramirez Frontany](https://www.linkedin.com/in/jose-abel-ramirez-frontany-7674a842/)
 
 ## Getting Started
 
 You can clone this code anytime and load the HTML file on your browser. Since it was build with vanilla JavaScript and the bundle was already built, it doesn't need any other package, the index.html file is located in the dist folder.
 
 ## Live version
+
+[live version](https://forkify-joseabel.netlify.app/)
 
 ### Setup
 
